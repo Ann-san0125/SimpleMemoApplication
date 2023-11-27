@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">シンプルメモアプリ</string>
+    <string name="bt_save">保存</string>
+    <string name="bt_delete">削除</string>
+    <string name="tv_title">タイトル</string>
+    <string name="bt_add">追加</string>
+</resources>
